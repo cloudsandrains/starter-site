@@ -1,2 +1,1 @@
 # starter-site
-hello Laurenz
